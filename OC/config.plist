@@ -698,7 +698,7 @@
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>HideAuxiliary</key>
-			<true/>
+			<false/>
 			<key>LauncherOption</key>
 			<string>Disabled</string>
 			<key>LauncherPath</key>
@@ -718,7 +718,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>2</integer>
+			<integer>5</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -848,7 +848,7 @@
 				<key>SystemAudioVolume</key>
 				<data>UA==</data>
 				<key>boot-args</key>
-				<string>-igfxonln=1 -agdpmod=ignore -igfxfw=2  darkwake=0</string>
+				<string>-v -igfxonln=1 -agdpmod=ignore -igfxfw=2  darkwake=0</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
