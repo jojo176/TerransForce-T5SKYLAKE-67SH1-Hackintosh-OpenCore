@@ -19,10 +19,13 @@
 
 	OpenCore 0.6.6
 	Big Sur 11.2
+---
 
-USB 
+### USB 
 ![odyup.png](https://s3.jpg.cm/2021/01/21/odyup.png)
-GPU
+---
+### GPU
 ![oqXFX.png](https://s3.jpg.cm/2021/01/20/oqXFX.png)
-Sound Card
+---
+### Sound Card
 ![odD9h.png](https://s3.jpg.cm/2021/01/21/odD9h.png)
